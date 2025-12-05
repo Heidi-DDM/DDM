@@ -1,0 +1,7 @@
+{
+  "name": "DDM Risk Manager V1 2025.12.5",
+  "description": "Multi-dimensional driving risk management system with AI integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
